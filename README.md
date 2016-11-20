@@ -5,12 +5,12 @@ is displayed as text in the UI, normally this would be
 displayed in  a WebView
 
 Uses 
-*ConnectivityManager and NetworkInfo
-*AsyncTask 
-*HttpURLConnection for get
-*BufferedInputStream
-*ByteArrayOutputStream
-*DataOutputStream
+* ConnectivityManager and NetworkInfo
+* AsyncTask 
+* HttpURLConnection for get
+* BufferedInputStream
+* ByteArrayOutputStream
+* DataOutputStream
 ## app HttpUrlConnection
 Note: input URL cannot be https:
 
